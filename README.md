@@ -45,5 +45,8 @@ Score = longitud de la serpiente - 1
 
 ![Snake Game](preview.png)
 
+## 🌎 pagina 
+https://snake-pi-dun.vercel.app/
+
 Luis Orlando Flores
 
